@@ -680,6 +680,13 @@
             "content": "<p>Our phone cases support <strong>all trading cards</strong>, including but not limited to:</p><ul><li>Pokémon</li><li>Magic: The Gathering (MTG)</li><li>Yu-Gi-Oh!</li><li>One Piece</li><li>Sports cards (excluding jersey patch/thick cards)</li><li>Dragon Ball Z / Score (DBZ)</li><li>Lorcana</li><li>Gundam</li><li>K-pop photo cards</li><li>Polaroids and other similarly sized cards</li></ul><p>Each case includes <strong>3x side loaders and sleeves</strong> that allow you to safely display cards of different sizes.</p><h4>Yu-Gi-Oh! cards</h4><p>Yu-Gi-Oh! cards will fit using the included side loaders. For best results, we recommend using official Konami sleeves with the includes side loaders.</p><p>If you want an improved, <strong>perfectly centered fit</strong> for Yu-Gi-Oh! cards, we offer optional precision top loaders designed specifically for smaller cards. These are available as an add-on accessory.</p><p>You can view all side loader and top loader accessories here:<br/><a href=\"https://gradecase.com/\" title=\"https://gradecase.com/\">https://gradecase.com</a></p>"
           }
         },
+        "item_7kKTe7": {
+          "type": "item",
+          "settings": {
+            "title": "How is my card protected?",
+            "content": "<p>Each card is protected using multiple layers:</p><ol><li>Sleeve</li><li>Side loader or top loader</li><li>Secure internal compartment within the phone case</li></ol><p>The card is sandwiched between the phone and the case, providing excellent protection from bending, debris, and daily handling.</p><p>Our side loaders and sleeves include <strong>UV-protective additives</strong>. Additionally, the case’s patent-pending internal locking design provides <strong>water resistance</strong>, helping protect the card in everyday environments on the exterior.<br/>BY GRADCASE.</p>"
+          }
+        },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
@@ -701,13 +708,6 @@
             "content": "<p>We really appreciate your interest.</p><p>We are a small business working as hard as we can to continue expanding our phone model lineup. Whatever we have on the site at any given time is what we have.</p><p>Please sign up for our email newsletter here:<br/><a href=\"https://gradecase.com/pages/signup\" target=\"_blank\" title=\"https://gradecase.com/pages/signup\">https://gradecase.com/pages/sign-up</a></p><p><a href=\"https://gradecase.com/pages/signup\" target=\"_blank\" title=\"https://gradecase.com/pages/signup\">You can also follow our website and socials to stay up to date. Thank you for your support.</a></p>"
           }
         },
-        "item_ffhAky": {
-          "type": "item",
-          "settings": {
-            "title": "How long does shipping take ?",
-            "content": "<p>In-stock items typically ship the same business day when ordered by 1:30pm US Central Time (Mon to Fri).</p><p>Within the United States we offer a <strong>standard shipping option</strong> and a <strong>2-day shipping option</strong>. The final shipping options and expected delivery dates are calculated and shown at checkout.</p><p><strong>Europe 2days</strong></p><p><strong>Japan 4 days</strong></p><p><br/>Standard orders typically arrive within about 5 business days depending on your location. During November and December, orders may take 2 to 3 extra business days.</p>"
-          }
-        },
         "item_NrNF4R": {
           "type": "item",
           "settings": {
@@ -715,22 +715,22 @@
             "content": "<p>Yes, we ship worldwide.</p><h4>Fast processing</h4><p>In-stock items typically ship the same business day when ordered by 1:30pm US Central Time, CT (Mon to Fri). You can convert this to your local time zone to estimate the cutoff. Preorder and backorder items ship on the timelines listed on our Preorder and Backorder page.</p><h4>Standard and express (air) options</h4><p>Most countries now have both a standard courier and a new express (air) option. You choose your speed at checkout, where the delivery estimate for each option is shown.</p><h4>No surprise fees</h4><p>All duties and taxes are included or fully calculated up front at checkout. There are no surprise charges or fees to pay when your order is delivered.</p>"
           }
         },
-        "item_7kKTe7": {
+        "item_ffhAky": {
           "type": "item",
           "settings": {
-            "title": "How is my card protected?",
-            "content": "<p>Each card is protected using multiple layers:</p><ol><li>Sleeve</li><li>Side loader or top loader</li><li>Secure internal compartment within the phone case</li></ol><p>The card is sandwiched between the phone and the case, providing excellent protection from bending, debris, and daily handling.</p><p>Our side loaders and sleeves include <strong>UV-protective additives</strong>. Additionally, the case’s patent-pending internal locking design provides <strong>water resistance</strong>, helping protect the card in everyday environments on the exterior.<br/>BY GRADCASE.</p>"
+            "title": "How long does shipping take ?",
+            "content": "<p>In-stock items typically ship the same business day when ordered by 1:30pm US Central Time (Mon to Fri).</p><p>Within the United States we offer a <strong>standard shipping option</strong> and a <strong>2-day shipping option</strong>. The final shipping options and expected delivery dates are calculated and shown at checkout.</p><p><strong>Europe 2days</strong></p><p><strong>Japan 4 days</strong></p><p><br/>Standard orders typically arrive within about 5 business days depending on your location. During November and December, orders may take 2 to 3 extra business days.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
+        "item_7kKTe7",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
         "item_fUfYaG",
-        "item_ffhAky",
         "item_NrNF4R",
-        "item_7kKTe7"
+        "item_ffhAky"
       ],
       "settings": {
         "full_width": false,
