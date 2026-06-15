@@ -15,8 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_0386.jpg",
-            "mobile_image": "shopify://shop_images/IMG_0386.jpg",
+            "image": "shopify://shop_images/IMG_0381.png",
+            "mobile_image": "shopify://shop_images/IMG_0381.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
