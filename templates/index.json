@@ -30,16 +30,16 @@
       ],
       "name": "Video",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "allow_transparent_header": true,
         "autoplay": true,
         "video_size": "sm",
-        "video": "shopify://files/videos/v26044gc0000d8num57og65m7muqicsg.mp4",
-        "mobile_video": "shopify://files/videos/v26044gc0000d8num57og65m7muqicsg.mp4",
+        "video": "shopify://files/videos/v26044gc0000d8o3a1vog65rj9beb5f0.mov",
+        "mobile_video": "shopify://files/videos/v26044gc0000d8o3a1vog65rj9beb5f0.mov",
         "external_video_url": "",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 13
+        "overlay_opacity": 0
       }
     },
     "image-link-blocks": {
