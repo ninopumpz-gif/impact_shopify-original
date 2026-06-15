@@ -276,8 +276,8 @@
         "1664424230c4756b0e-1": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
+            "text": "Spotted in SuperBowl 2026 LX Ad.",
+            "heading_tag": "h3"
           }
         },
         "1664424230c4756b0e-2": {
@@ -297,6 +297,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Screenshot_2026-05-04_at_8.42.56_PM.png",
+        "mobile_image": "shopify://shop_images/Screenshot_2026-05-04_at_8.42.56_PM.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
