@@ -163,7 +163,8 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "apple",
+            "image": "shopify://shop_images/IMG_0381.png",
             "subheading": "",
             "title": "",
             "url": "",
