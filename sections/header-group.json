@@ -40,7 +40,7 @@
     "header": {
       "type": "header",
       "settings": {
-        "enable_sticky": true,
+        "enable_sticky": false,
         "hide_on_scroll": false,
         "logo": "shopify://shop_images/IMG-0418.png",
         "logo_max_width": 120,
