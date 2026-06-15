@@ -54,6 +54,19 @@
     "image-link-blocks": {
       "type": "image-link-blocks",
       "blocks": {
+        "1664424046b00c932c-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/C07BB7F3-D89B-4D56-A9B4-DF281FDA68C1.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
         "1664424046b00c932c-0": {
           "type": "item",
           "settings": {
@@ -80,23 +93,10 @@
             "overlay_opacity": 0
           }
         },
-        "1664424046b00c932c-1": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/IMG_9362_jpg.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
         "1664424046b00c932c-3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IMG_9367_jpg.jpg",
+            "image": "shopify://shop_images/IMG_9371_jpg.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -120,9 +120,9 @@
         }
       },
       "block_order": [
+        "1664424046b00c932c-1",
         "1664424046b00c932c-0",
         "1664424046b00c932c-2",
-        "1664424046b00c932c-1",
         "1664424046b00c932c-3",
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
       ],
