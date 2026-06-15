@@ -169,10 +169,10 @@
             "title": "",
             "url": "",
             "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
+            "text_position": "place-self-start text-start",
+            "text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection-2": {
