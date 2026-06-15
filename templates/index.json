@@ -334,7 +334,8 @@
         "item-2": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/1766701836__screenshot_2025-12-25_at_45123_pm__original.jpg",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
