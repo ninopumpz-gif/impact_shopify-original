@@ -533,8 +533,8 @@
         "heading_PNmdKL": {
           "type": "heading",
           "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
+            "text": "gradecase.com",
+            "heading_tag": "h6"
           }
         }
       },
@@ -546,14 +546,14 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "auto",
+        "autoplay": true,
+        "video_size": "sm",
         "video": "shopify://files/videos/v26044gc0000d8num57og65m7muqicsg.mp4",
         "mobile_video": "shopify://files/videos/v26044gc0000d8num57og65m7muqicsg.mp4",
         "external_video_url": "",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 13
       }
     }
   },
