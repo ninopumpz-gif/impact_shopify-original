@@ -15,18 +15,10 @@
         "play_TYFhGH": {
           "type": "play",
           "settings": {}
-        },
-        "heading_PNmdKL": {
-          "type": "heading",
-          "settings": {
-            "text": "gradecase.com",
-            "heading_tag": "h6"
-          }
         }
       },
       "block_order": [
-        "play_TYFhGH",
-        "heading_PNmdKL"
+        "play_TYFhGH"
       ],
       "name": "Video",
       "settings": {
