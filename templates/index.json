@@ -693,12 +693,44 @@
             "title": "Why did you invent this case?",
             "content": "<p>GradCase was created to give collectors a safe, premium way to display their favorite trading cards directly in their phone case.</p><p>Before launching GradeCase.com, we (like many collectors) were placing cards inside generic clear phone cases. We wanted something that looked better, offered more protection, and was purpose-built for collectors. The result is a custom-designed phone case that securely displays cards while protecting both your phone and your collectible.</p><p>Our products are <strong>patent pending</strong>, with multiple design and utility patents currently filed. <br/>BY GRADCASE.</p>"
           }
+        },
+        "item_fUfYaG": {
+          "type": "item",
+          "settings": {
+            "title": "Can you make a phone case for [insert phone model here]?",
+            "content": "<p>We really appreciate your interest.</p><p>We are a small business working as hard as we can to continue expanding our phone model lineup. Whatever we have on the site at any given time is what we have.</p><p>Please sign up for our email newsletter here:<br/><a href=\"https://gradecase.com/pages/signup\" target=\"_blank\" title=\"https://gradecase.com/pages/signup\">https://gradecase.com/pages/sign-up</a></p><p><a href=\"https://gradecase.com/pages/signup\" target=\"_blank\" title=\"https://gradecase.com/pages/signup\">You can also follow our website and socials to stay up to date. Thank you for your support.</a></p>"
+          }
+        },
+        "item_ffhAky": {
+          "type": "item",
+          "settings": {
+            "title": "Why did you invent this case?",
+            "content": "<p>GradCase was created to give collectors a safe, premium way to display their favorite trading cards directly in their phone case.</p><p>Before launching GradeCase.com, we (like many collectors) were placing cards inside generic clear phone cases. We wanted something that looked better, offered more protection, and was purpose-built for collectors. The result is a custom-designed phone case that securely displays cards while protecting both your phone and your collectible.</p><p>Our products are <strong>patent pending</strong>, with multiple design and utility patents currently filed. <br/>BY GRADCASE.</p>"
+          }
+        },
+        "item_NrNF4R": {
+          "type": "item",
+          "settings": {
+            "title": "Why did you invent this case?",
+            "content": "<p>GradCase was created to give collectors a safe, premium way to display their favorite trading cards directly in their phone case.</p><p>Before launching GradeCase.com, we (like many collectors) were placing cards inside generic clear phone cases. We wanted something that looked better, offered more protection, and was purpose-built for collectors. The result is a custom-designed phone case that securely displays cards while protecting both your phone and your collectible.</p><p>Our products are <strong>patent pending</strong>, with multiple design and utility patents currently filed. <br/>BY GRADCASE.</p>"
+          }
+        },
+        "item_7kKTe7": {
+          "type": "item",
+          "settings": {
+            "title": "Why did you invent this case?",
+            "content": "<p>GradCase was created to give collectors a safe, premium way to display their favorite trading cards directly in their phone case.</p><p>Before launching GradeCase.com, we (like many collectors) were placing cards inside generic clear phone cases. We wanted something that looked better, offered more protection, and was purpose-built for collectors. The result is a custom-designed phone case that securely displays cards while protecting both your phone and your collectible.</p><p>Our products are <strong>patent pending</strong>, with multiple design and utility patents currently filed. <br/>BY GRADCASE.</p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_fUfYaG",
+        "item_ffhAky",
+        "item_NrNF4R",
+        "item_7kKTe7"
       ],
       "settings": {
         "full_width": false,
