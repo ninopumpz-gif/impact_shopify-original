@@ -214,23 +214,6 @@
     },
     "impact-text": {
       "type": "impact-text",
-      "blocks": {
-        "1664424181b38582d5-0": {
-          "type": "item",
-          "settings": {
-            "title": "100%",
-            "subheading": "GradeCase a benefit of your product",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "1664424181b38582d5-0"
-      ],
       "settings": {
         "full_width": true,
         "stack_mobile": true,
@@ -295,11 +278,12 @@
         "16644243327ba53d2a-0": {
           "type": "quote",
           "settings": {
-            "logo_width": 100,
+            "logo": "shopify://shop_images/IMG-0418.png",
+            "logo_width": 80,
             "author": "",
-            "content": "Share info about what your customers say about your products.",
-            "show_rating": false,
-            "rating": 4
+            "content": "Anti-Yellowing / UV Resist / Waterproof / Drop Tested.",
+            "show_rating": true,
+            "rating": 5
           }
         },
         "16644243327ba53d2a-1": {
