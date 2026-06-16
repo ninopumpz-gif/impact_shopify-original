@@ -183,7 +183,7 @@
             "url": "",
             "heading_tag": "h6",
             "text_position": "place-self-end-center text-center",
-            "text_color": "#ffffff",
+            "text_color": "#000000",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
