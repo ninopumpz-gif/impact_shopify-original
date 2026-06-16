@@ -195,8 +195,8 @@
         "collection-3"
       ],
       "settings": {
-        "full_width": true,
-        "stack_collections": true,
+        "full_width": false,
+        "stack_collections": false,
         "collections_per_row_mobile": "2",
         "collections_per_row": 3,
         "show_progress_bar": true,
