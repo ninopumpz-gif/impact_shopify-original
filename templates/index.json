@@ -399,7 +399,7 @@
         "1664424230c4756b0e-0": {
           "type": "subheading",
           "settings": {
-            "text": "The case flashes on screen atthe 0:56 mark."
+            "text": "The GradeCase flashes on screen atthe 0:56 mark."
           }
         },
         "1664424230c4756b0e-1": {
@@ -428,11 +428,46 @@
         "image_size": "auto",
         "image": "shopify://shop_images/Screenshot_2026-05-04_at_8.42.56_PM.png",
         "mobile_image": "shopify://shop_images/Screenshot_2026-05-04_at_8.42.56_PM.png",
-        "mobile_text_position": "place-self-center text-center",
+        "mobile_text_position": "place-self-start text-start",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
+      }
+    },
+    "blog_posts_K73Cpt": {
+      "type": "blog-posts",
+      "blocks": {
+        "article_y8eUz6": {
+          "type": "article",
+          "settings": {
+            "article": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "article_y8eUz6"
+      ],
+      "name": "Featured blog post",
+      "settings": {
+        "full_width": true,
+        "show_excerpt": true,
+        "show_date": true,
+        "show_author": false,
+        "show_comments_count": false,
+        "show_category": true,
+        "subheading": "The GradeCase flashes on screen atthe 0:56 mark.",
+        "title": "Spotted in SuperBowl 2026 LX Ad.",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "faq": {
@@ -530,6 +565,7 @@
     "featured-product",
     "custom_html_334gAz",
     "image-with-text-overlay",
+    "blog_posts_K73Cpt",
     "faq"
   ]
 }
