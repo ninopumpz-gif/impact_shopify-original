@@ -230,48 +230,6 @@
         "button_text_color": ""
       }
     },
-    "image-with-text-overlay": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "1664424230c4756b0e-0": {
-          "type": "subheading",
-          "settings": {
-            "text": "The case flashes on screen atthe 0:56 mark."
-          }
-        },
-        "1664424230c4756b0e-1": {
-          "type": "heading",
-          "settings": {
-            "text": "Spotted in SuperBowl 2026 LX Ad.",
-            "heading_tag": "h3"
-          }
-        },
-        "1664424230c4756b0e-2": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>For a nanosecond. We probably wouldn't have caught it if Maitreyi wasn't already a customer.</p><p>Maitreyi Ramakrishnan, a Netflix star, reached out to us back when we tirst launched the product and became one of our earliest customers. Over a year later, she's still using the case.</p><p>We were completely shocked (in the best way) when we caught her with it in Pokémon's 2026</p><p>Super Bowl LX spot. Watch closely at the 0:56 mark in the 40-million-view video, the case flashes on screen for less than a second.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "1664424230c4756b0e-0",
-        "1664424230c4756b0e-1",
-        "1664424230c4756b0e-2"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Screenshot_2026-05-04_at_8.42.56_PM.png",
-        "mobile_image": "shopify://shop_images/Screenshot_2026-05-04_at_8.42.56_PM.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "press": {
       "type": "press",
       "blocks": {
@@ -406,6 +364,48 @@
         "input_text_color": ""
       }
     },
+    "image-with-text-overlay": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "1664424230c4756b0e-0": {
+          "type": "subheading",
+          "settings": {
+            "text": "The case flashes on screen atthe 0:56 mark."
+          }
+        },
+        "1664424230c4756b0e-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Spotted in SuperBowl 2026 LX Ad.",
+            "heading_tag": "h3"
+          }
+        },
+        "1664424230c4756b0e-2": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>For a nanosecond. We probably wouldn't have caught it if Maitreyi wasn't already a customer.</p><p>Maitreyi Ramakrishnan, a Netflix star, reached out to us back when we tirst launched the product and became one of our earliest customers. Over a year later, she's still using the case.</p><p>We were completely shocked (in the best way) when we caught her with it in Pokémon's 2026</p><p>Super Bowl LX spot. Watch closely at the 0:56 mark in the 40-million-view video, the case flashes on screen for less than a second.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "1664424230c4756b0e-0",
+        "1664424230c4756b0e-1",
+        "1664424230c4756b0e-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Screenshot_2026-05-04_at_8.42.56_PM.png",
+        "mobile_image": "shopify://shop_images/Screenshot_2026-05-04_at_8.42.56_PM.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -498,8 +498,8 @@
     "collection-list",
     "impact-text",
     "press",
-    "image-with-text-overlay",
     "featured-product",
+    "image-with-text-overlay",
     "faq"
   ]
 }
