@@ -112,7 +112,7 @@
       ],
       "settings": {
         "full_width": true,
-        "block_size": "large",
+        "block_size": "medium",
         "subheading": "",
         "title": "",
         "content": "",
@@ -497,8 +497,8 @@
     "scrolling-text",
     "collection-list",
     "impact-text",
-    "image-with-text-overlay",
     "press",
+    "image-with-text-overlay",
     "featured-product",
     "faq"
   ]
