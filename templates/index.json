@@ -187,12 +187,28 @@
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
+        },
+        "collection_LGWWRz": {
+          "type": "collection",
+          "settings": {
+            "collection": "sealed-pokemon-cards",
+            "image": "shopify://shop_images/IMG_0428.webp",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h6",
+            "text_position": "place-self-end-center text-center",
+            "text_color": "#FFFFFF",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
         "collection-1",
         "collection-2",
-        "collection-3"
+        "collection-3",
+        "collection_LGWWRz"
       ],
       "settings": {
         "full_width": true,
